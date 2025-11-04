@@ -1,2 +1,4 @@
-<a href="url"><img src="https://github.com/BL00DYSTREAM/BL00DYSTREAM/blob/main/686a5abf1cd71be2c060bb8116b342b6.jpg?raw=true" align="center" height="480" width="480" ></a>
+<p align="center">
+  <img width="480" height="480" src="https://github.com/BL00DYSTREAM/BL00DYSTREAM/blob/main/686a5abf1cd71be2c060bb8116b342b6.jpg?raw=true">
+</p>
 
