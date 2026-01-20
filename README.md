@@ -18,7 +18,7 @@ I am 17 years old, INTJ, and I am an artist. I usually don't prefer to approach 
 
 <br><br>
 <p align="center">
-  <img width="350" height="350" src="https://github.com/BL00DYSTREAM/BL00DYSTREAM/blob/fd7f70fc1672e2b3fbac77976c6c89a9fb254532/d5fd13d8b2c1369ca5fdf062db2997b0.gif">
+  <img width="350" height="350" src="https://github.com/BL00DYSTREAM/BL00DYSTREAM/blob/859dac37683cfa56619303ad58b9a58f252fcfaf/Gyro%20zeppelie%20header.jpg">
 </p>
 
 <br><br>
