@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <font color="#632e2e"><strong><em>我不合时宜，你已时日无多</em></strong></font>
+  <font color="#632e2e"><strong><em>If my words are a sin, then call me out. But this is honesty—so why does your gaze feel like thorns?</em></strong></font>
 </div>
 
 <br><br>
