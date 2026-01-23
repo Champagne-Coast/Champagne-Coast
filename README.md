@@ -10,10 +10,6 @@
 
 <br><br>
  
-<div align="center">
-Hello, my name is Lin Yi, but you can also call me by the name Cassiel. Please do be patient with me, I don't like being forced or rushed to talk.<br><br>
-I am 17 years old, INTJ, and I am an artist. I usually don't prefer to approach first, so feel free to approach me. 
-</div>
 
 
 <br><br>
