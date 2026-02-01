@@ -1,3 +1,7 @@
+<br><br>
+<p align="center">
+  <img width="600" height="600" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/f5708414b44a0b0b265bb9fe23b738e47fc4a479/ee20e8c5b50af147ab5be53ef438cc80-removebg-preview.png">
+</p>
 
 
 
