@@ -22,7 +22,7 @@
 
 <br><br>
 <p align="center">
-  <img width="600" height="600" src="https://github.com/BL00DYSTREAM/BL00DYSTREAM/blob/859dac37683cfa56619303ad58b9a58f252fcfaf/Gyro%20zeppelie%20header.jpg">
+  <img width="600" height="600" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/11656a9062eae765dc1dbd83c2f778eb306ef7c4/dcf80a7231ab169c7f655ab9750db40c.jpg">
 </p>
 
 <br><br>
