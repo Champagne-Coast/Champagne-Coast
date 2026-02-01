@@ -16,7 +16,7 @@
 
  
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=https://open.spotify.com/user/31db72c7lro57qvwm6xlmjs4ec7m?si=BsNWKgU3QkqnZAdiNTNDXw&cover_image=true&theme=default" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31db72c7lro57qvwm6xlmjs4ec7m?si=BsNWKgU3QkqnZAdiNTNDXw&cover_image=true&theme=default" />
 </p>
 
 
