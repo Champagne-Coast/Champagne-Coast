@@ -11,7 +11,7 @@
   </h4>
 </div>
 
- [![Mindless Self Indulgence - Shut Me Up](https://github.com/Champagne-Coast/Champagne-Coast/blob/f5708414b44a0b0b265bb9fe23b738e47f4c4479/ee20e8c5b50af147ab5be53ef4383cc80-removebg-preview.png)](https://open.spotify.com/track/7AH9Fmka4o4fY25IfhvBUC?si=98cb9ffaf16c4723)
+[![Mindless Self Indulgence - Shut Me Up](https://i.scdn.co/image/ab67616d0000b273c545d7d61f5a6fa9a0192a62)](https://open.spotify.com/track/7AH9Fmka4o4fY25IfhvBUC?si=98cb9ffaf16c4723)
 
 
 
