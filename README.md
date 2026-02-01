@@ -29,8 +29,8 @@
 <div align="center">
   <table>
     <tr>
-      <td><img width="250" height="250" src="https://github.com/BL00DYSTREAM/BL00DYSTREAM/blob/2450189db723e39e451077bf24a0259d13b1b9cb/1766768819605_c095f6cbe1a5a5ca05fc333ac4f19439_copy_1.jpg"></td>
-      <td><img width="250" height="250" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/e9a49f94f7870a79ce1cb3f2b5fe7e0908e8b467/Kepernyokep_2025-12-24_135734.png"></td>
+      <td><img width="250" height="250" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/b2849841632f362f9db7e9bcfcb4dfc0cf5d3ce7/2b362004-9c07-4c1e-a05e-849711556c6b.png"></td>
+      <td><img width="250" height="250" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/b2849841632f362f9db7e9bcfcb4dfc0cf5d3ce7/Kepernyokep_2025-12-24_135735.png"></td>
     </tr>
   </table>
 </div>
