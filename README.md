@@ -1,6 +1,3 @@
-<p align="center">
-  [![Mindless Self Indulgence - Shut Me Up](https://github.com/Champagne-Coast/Champagne-Coast/blob/f5708414b44a0b0b265bb9fe23b738e47fc4a479/ee20e8c5b50af147ab5be53ef438cc80-removebg-preview.png)](https://open.spotify.com/track/7AH9Fmka4of4Y25lfhvBUC?si=98cb9ffaf16c4723)
-</p>
 
 
 
@@ -14,10 +11,7 @@
   </h4>
 </div>
 
- 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31db72c7lro57qvwm6xlmjs4ec7m?si=BsNWKgU3QkqnZAdiNTNDXw&cover_image=true&theme=default" />
-</p>
+ [![Mindless Self Indulgence - Shut Me Up](https://github.com/Champagne-Coast/Champagne-Coast/blob/f5708414b44a0b0b265bb9fe23b738e47f4c4479/ee20e8c5b50af147ab5be53ef4383cc80-removebg-preview.png)](https://open.spotify.com/track/7AH9Fmka4o4fY25IfhvBUC?si=98cb9ffaf16c4723)
 
 
 
