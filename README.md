@@ -15,7 +15,11 @@
 </div>
 
  
-[![Spotify](https://img.shields.io/badge/Spotify-Listen-green?logo=spotify)](https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF?si=b7b3793f8c284586)
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=(https://open.spotify.com/user/31db72c7lro57qvwm6xlmjs4ec7m?si=BsNWKgU3QkqnZAdiNTNDXw)=true&theme=default" />
+</p>
+
+
 
 
 <br><br>
