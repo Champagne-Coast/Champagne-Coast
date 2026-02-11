@@ -4,8 +4,6 @@
 
 
 
-
-<br><br>
 <div align="center">
   <table>
     <tr>
@@ -15,3 +13,4 @@
   </table>
 </div>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31db72c7lro57qvwm6xlmjs4ec7m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=3b3b3b&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
