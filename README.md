@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/Champagne-Coast/hits/"><img alt="Hits" src="https://hits.sh/github.com/Champagne-Coast/hits.svg?color=801daf"/></a>
+<a href="https://github.com/Champagne-Coast/hits/"><img alt="Hits" src="https://hits.sh/github.com/Champagne-Coast/hits.svg?label=lalaala&extraCount=2094&color=7c167b"/></a>
 
 
 
