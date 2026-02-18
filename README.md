@@ -7,8 +7,7 @@
 <p align="center">
   <img width="300" height="300" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/19e7f2ece123191e271d646b7c25cba2425a337d/Untitled151_20260216015946.png">
 </p>
-<p align="center">
-the cool gang
+
 
 
 <p align="center"
