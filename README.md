@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="450" height="450" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/ba8902a9a9d52426b44211eb275049a1e90b870e/image.png">
+  <img width="600" height="600" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/ba8902a9a9d52426b44211eb275049a1e90b870e/image.png">
 </p>
 
 <p align="center">
