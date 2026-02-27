@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="600" height="600" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/ba8902a9a9d52426b44211eb275049a1e90b870e/image.png">
-</p>
+
 
 <p align="center">
 <a href="https://github.com/Champagne-Coast/hits/"><img alt="Hits" src="https://hits.sh/github.com/Champagne-Coast/hits.svg?label=lalaala&extraCount=2094&color=7c167b"/></a>
