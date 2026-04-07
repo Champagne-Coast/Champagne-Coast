@@ -20,7 +20,7 @@
 <div align="center">
   
   ${\textsf{\color{#005A9C}Hello I'm Cassiel or Vincezo}}$   
-  ${\textsf{\color{#005A9C}I love talking to people, please interact with me!!}}$    
+  ${\textsf{\color{#6495ED}I love talking to people, please interact with me!!}}$    
   ${\textsf{\color{#005A9C}I am honestly either too talkative or awkward, so bare with me}}$   
 
  
