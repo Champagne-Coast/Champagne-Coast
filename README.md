@@ -10,7 +10,7 @@
   
  
  
-  ${\textsf{\color{#87CEEB}city of stars, are you shining just for me?}}$   
+  ${\textsf{\color{#00008B}city of stars, are you shining just for me?}}$   
 
 
 ![image_alt](https://github.com/Champagne-Coast/Champagne-Coast/blob/0b4ce8194cc04261fc6a423216c0a21b8035ef27/tumblr_73bec7240536f3dbd6a63ed8545ca05f_608ef37d_2048.png)
