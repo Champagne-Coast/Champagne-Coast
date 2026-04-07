@@ -14,8 +14,7 @@
   
  
  
-  ${\textsf{\color{#87CEEB}city of stars, are you shining just for me?}}$    ![image_alt](https://github.com/Champagne-Coast/Champagne-Coast/blob/960eba1de2bd6c5fef47a2000d6437aa57f0b413/889a0276a09e3d918840287e4c23c596-removebg-preview%20(1).png)
- 
+  ${\textsf{\color{#87CEEB}city of stars, are you shining just for me?}}$   
 
 
 <p align="center">
