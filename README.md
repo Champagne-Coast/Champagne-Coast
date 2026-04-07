@@ -14,7 +14,7 @@
 <div align="center">
   
 # ${\textsf{\color{#9ACD32}   Cassiel ★ }}$
-  ${\textsf{\color{#679267}city of stars, are you shining just for me?}}$   ![image_alt]
+  ${\textsf{\color{#679267}city of stars, are you shining just for me?}}$   ![image_alt](https://github.com/Champagne-Coast/Champagne-Coast/blob/023becac91226d1e8a7ead4ce696866725d9ed33/889a0276a09e3d918840287e4c23c596-removebg-preview.png)
 
  </div>
 <div align="center">
