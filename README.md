@@ -4,17 +4,19 @@
 <div align="center">
   
  <img width="250" height="250" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/19e7f2ece123191e271d646b7c25cba2425a337d/Untitled151_20260216015946.png">
-
-![image_alt](https://github.com/Champagne-Coast/Champagne-Coast/blob/0b4ce8194cc04261fc6a423216c0a21b8035ef27/tumblr_73bec7240536f3dbd6a63ed8545ca05f_608ef37d_2048.png)
-
-</p>
-
-</div>
+ 
+ </div>
 <div align="center">
   
  
  
   ${\textsf{\color{#87CEEB}city of stars, are you shining just for me?}}$   
+
+
+![image_alt](https://github.com/Champagne-Coast/Champagne-Coast/blob/0b4ce8194cc04261fc6a423216c0a21b8035ef27/tumblr_73bec7240536f3dbd6a63ed8545ca05f_608ef37d_2048.png)
+
+</p>
+
 
 
 
