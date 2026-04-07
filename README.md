@@ -13,7 +13,7 @@
 </div>
 <div align="center">
   
-# ${\textsf{\color{#8cc751}   Cassiel ★ }}$
+# ${\textsf{\color{#9ACD32}   Cassiel ★ }}$
   ${\textsf{\color{#679267}city of stars, are you shining just for me?}}$   ![image_alt]
 
  </div>
