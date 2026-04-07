@@ -1,4 +1,5 @@
-
+<p align="center">
+<a href="https://hits.sh/github.com/Champagne-Coast/hits/"><img alt="Hits" src="https://hits.sh/github.com/Champagne-Coast/hits.svg?label=tehee&extraCount=4035&color=e8ba5c&labelColor=211f9d"/></a>
 
 </div>
 <div align="center">
@@ -25,5 +26,4 @@
 
 ![image_alt](https://github.com/Champagne-Coast/Champagne-Coast/blob/5ba14b28210d0c641a44dd6d7e882b0047a67cb5/tumblr_ece2d09290833017ac638eea21c068e5_d595adae_250.webp)
 
-<p align="center">
-<a href="https://hits.sh/github.com/Champagne-Coast/hits/"><img alt="Hits" src="https://hits.sh/github.com/Champagne-Coast/hits.svg?label=tehee&extraCount=4035&color=e8ba5c&labelColor=211f9d"/></a>
+
