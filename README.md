@@ -20,4 +20,4 @@
 <p align="center">
 <a href="https://hits.sh/github.com/Champagne-Coast/hits/"><img alt="Hits" src="https://hits.sh/github.com/Champagne-Coast/hits.svg?label=tehee&extraCount=4035&color=b5e0b9&labelColor=7dbad3"/></a>
 
- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31db72c7lro57qvwm6xlmjs4ec7m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=750c57&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+![image_alt](https://github.com/Champagne-Coast/Champagne-Coast/blob/1b781efc89d3e46d80f293b478ee5a2979fb8d59/tumblr_3176f91d1ce83851b7057738cc42ac46_c87e4c9f_100.png)![image_alt](https://github.com/Champagne-Coast/Champagne-Coast/blob/1b781efc89d3e46d80f293b478ee5a2979fb8d59/tumblr_4b8513ef071775fda1657529792105ea_b3acde25_100.png)![image_alt](https://github.com/Champagne-Coast/Champagne-Coast/blob/b55ee61d7810727411aaf10e156680e2183c7880/sonic_stamp_3_by_chibicreampuff_d3ha60m-fullview.png)
