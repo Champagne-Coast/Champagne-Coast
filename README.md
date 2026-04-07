@@ -23,7 +23,8 @@
   ${\textsf{\color{#005A9C}I love talking to people, please interact with me!!}}$    
   ${\textsf{\color{#005A9C}I am honestly either too talkative or awkward, so bare with me}}$   
 
-
+ </div>
+ 
 ![image_alt](https://github.com/Champagne-Coast/Champagne-Coast/blob/d597f71fc1ec25693285f4f83b6acd8b224b5596/tumblr_423fed6b18aa0cec6ee77c90fc0ac006_b59b9ce3_100.png)![image_alt](https://github.com/Champagne-Coast/Champagne-Coast/blob/b55ee61d7810727411aaf10e156680e2183c7880/sonic_stamp_3_by_chibicreampuff_d3ha60m-fullview.png)
 ![image_alt](https://github.com/Champagne-Coast/Champagne-Coast/blob/1b781efc89d3e46d80f293b478ee5a2979fb8d59/tumblr_4b8513ef071775fda1657529792105ea_b3acde25_100.png)
 
