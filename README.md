@@ -1,4 +1,4 @@
-![image_alt](https://github.com/Champagne-Coast/Champagne-Coast/blob/06be0f919cb2125e89b2e6a235c6e5f44b0f67b7/tumblr_682375078f299b359ac6a203ce5618d2_59c16c22_640.webp)
+
 
 <p align="center">
 <a href="https://hits.sh/github.com/Champagne-Coast/hits/"><img alt="Hits" src="https://hits.sh/github.com/Champagne-Coast/hits.svg?label=tehee&extraCount=4035&color=e8ba5c&labelColor=211f9d"/></a>
@@ -13,8 +13,9 @@
   
   ${\textsf{\color{#005A9C}city of stars, are you shining just for me?}}$   
 
-
-![image_alt](https://github.com/Champagne-Coast/Champagne-Coast/blob/0b4ce8194cc04261fc6a423216c0a21b8035ef27/tumblr_73bec7240536f3dbd6a63ed8545ca05f_608ef37d_2048.png)
+ </div>
+<div align="center">
+![image_alt](https://github.com/Champagne-Coast/Champagne-Coast/blob/06be0f919cb2125e89b2e6a235c6e5f44b0f67b7/tumblr_682375078f299b359ac6a203ce5618d2_59c16c22_640.webp)
 
 </p>
 
