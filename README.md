@@ -30,7 +30,11 @@
   ${\textsf{\color{#E5E3A3}I am either too talkative or awkward, so bare with me}}$   
 
 <br><br>
-  
+
+<br><br>
+
+<br><br>
+
 ![image_alt](https://github.com/Champagne-Coast/Champagne-Coast/blob/6437ce75a36d9131086033169ff4834b73d64a56/tumblr_3af5879ef93e50c553c8fb0879278b10_af1c6547_100.webp)![image_alt](https://github.com/Champagne-Coast/Champagne-Coast/blob/b55ee61d7810727411aaf10e156680e2183c7880/sonic_stamp_3_by_chibicreampuff_d3ha60m-fullview.png)
 ![image_alt](https://github.com/Champagne-Coast/Champagne-Coast/blob/1b781efc89d3e46d80f293b478ee5a2979fb8d59/tumblr_4b8513ef071775fda1657529792105ea_b3acde25_100.png)![image alt](https://github.com/Champagne-Coast/Champagne-Coast/blob/124d59f3bda230ca26d0487da1b922f90fc34147/hannibal.png)
 
