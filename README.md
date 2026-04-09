@@ -11,7 +11,7 @@
  </div>
 <div align="center">
   
-  ${\textsf{\color{#84b067}city of stars, are you shining just for me?}}$   
+  ${\textsf{\color{#f8dc75}city of stars, are you shining just for me?}}$   
 
  </div>
 <div align="center">
