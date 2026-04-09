@@ -6,7 +6,7 @@
 </div>
 <div align="center">
   
- <img width="250" height="250" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/19e7f2ece123191e271d646b7c25cba2425a337d/Untitled151_20260216015946.png">
+ <img width="150" height="150" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/19e7f2ece123191e271d646b7c25cba2425a337d/Untitled151_20260216015946.png">
  
  </div>
 <div align="center">
