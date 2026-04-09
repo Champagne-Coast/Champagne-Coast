@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<a href="https://hits.sh/github.com/Champagne-Coast/hits/"><img alt="Hits" src="https://hits.sh/github.com/Champagne-Coast/hits.svg?label=tehee&extraCount=4035&color=e8ba5c&labelColor=211f9d"/></a>
+<a href="https://hits.sh/github.com/RadioheadLover/hits/"><img alt="Hits" src="https://hits.sh/github.com/RadioheadLover/hits.svg?label=tehee&extraCount=5489&color=E5E3A3&labelColor=84b067"/></a>
 
 </div>
 <div align="center">
