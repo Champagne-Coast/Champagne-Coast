@@ -15,6 +15,7 @@
 
  </div>
 <div align="center">
+  
 ![image_alt](https://github.com/Champagne-Coast/Champagne-Coast/blob/06be0f919cb2125e89b2e6a235c6e5f44b0f67b7/tumblr_682375078f299b359ac6a203ce5618d2_59c16c22_640.webp)
 
 </p>
