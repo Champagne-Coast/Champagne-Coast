@@ -23,7 +23,7 @@
  </div>
 <div align="center">
   
-  ${\textsf{\color{#005A9C}Hello I'm Cassiel or Vincezo}}$   ![image_alt](https://github.com/Champagne-Coast/Champagne-Coast/blob/3ba8f78363c408c42b7af4860ad04369eebbe551/889a0276a09e3d918840287e4c23c596-removebg-preview%20(1).png)
+  ${\textsf{\color{#005A9C}Hello I'm Cassiel or Vincezo}}$   ![image_alt](https://github.com/Champagne-Coast/Champagne-Coast/blob/03002cfb3f39790da5e8d93acf094805c3658f41/889a0276a09e3d918840287e4c23c596-removebg-preview%20(1)%20(2).png)
   ${\textsf{\color{#e8ba5c}I love talking to people, please interact with me}}$    
   ${\textsf{\color{#005A9C}I am either too talkative or awkward, so bare with me}}$   
 
