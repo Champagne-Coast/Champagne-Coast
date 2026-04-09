@@ -3,12 +3,11 @@
 <p align="center">
 <a href="https://hits.sh/github.com/Champagne-Coast/hits/"><img alt="Hits" src="https://hits.sh/github.com/Champagne-Coast/hits.svg?label=tehee&extraCount=3548&color=E5E3A3&labelColor=84b067"/></a>
 
-<br><br>
 
 </div>
 <div align="center">
   
- <img width="150" height="150" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/19e7f2ece123191e271d646b7c25cba2425a337d/Untitled151_20260216015946.png">
+ <img width="200" height="200" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/19e7f2ece123191e271d646b7c25cba2425a337d/Untitled151_20260216015946.png">
  
  </div>
 <div align="center">
