@@ -3,6 +3,8 @@
 <p align="center">
 <a href="https://hits.sh/github.com/Champagne-Coast/hits/"><img alt="Hits" src="https://hits.sh/github.com/Champagne-Coast/hits.svg?label=tehee&extraCount=3548&color=E5E3A3&labelColor=84b067"/></a>
 
+<br><br>
+
 </div>
 <div align="center">
   
