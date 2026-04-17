@@ -32,7 +32,7 @@
  </div>
 <div align="center">
   
-  go to pinterest to see my arts 
+${\textsf{\color{#E5E3A3}go to pinterest to see my arts}}$
   
-${\textsf{\color{#E5E3A3}[Pinteres](https://pin.it/5ualnPwQN)}}$ 
+[Pinteres](https://pin.it/5ualnPwQN)
 
