@@ -23,7 +23,7 @@
  </div>
 <div align="center">
 
-<img width="50" height="50" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/9953fc20c13ee15516fa12197a8c5a68c57b7dea/tumblr_69f08e6b1d320ae4f897d257524bc40b_242fc0ea_75.webp" />
+<img width="50" height="50" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/5938a6ca2a1343b23fa4f611a33b0c052f7212a8/tumblr_a024b80b48bb0f87475ec53498a2328c_9a68944c_75.webp" />
 
 
 ${\textsf{\color{#84b067}go to pinterest to see my arts}}$
