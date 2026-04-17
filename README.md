@@ -34,5 +34,5 @@
   
   go to pinterest to see my arts 
   
-[Pinteres](https://pin.it/5ualnPwQN)
+${\textsf{\color{#E5E3A3}[Pinteres](https://pin.it/5ualnPwQN)}}$ 
 
