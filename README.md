@@ -33,6 +33,8 @@
 <div align="center">
   
 ${\textsf{\color{#84b067}go to pinterest to see my arts}}$
+
+[<img width="200" height="177" alt="287c726e03b14919e2ebb15534252bb0-removebg-preview" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/67afb57dc49f3727286cf77636cbbb38854a2f71/Untitled174_20260418032444.png" />](https://pin.it/5ualnPwQN) 
   
 [Pinteres](https://pin.it/5ualnPwQN)
 
