@@ -41,4 +41,3 @@ ${\textsf{\color{#84b067}go to pinterest to see my arts}}$
 
 
 
-https://github.com/Champagne-Coast/Champagne-Coast/blob/9953fc20c13ee15516fa12197a8c5a68c57b7dea/tumblr_69f08e6b1d320ae4f897d257524bc40b_242fc0ea_75.webp
