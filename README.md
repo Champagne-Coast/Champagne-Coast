@@ -29,6 +29,10 @@
   
   ${\textsf{\color{#E5E3A3}I am either too talkative or awkward, so bare with me}}$   
 
-
-
+ </div>
+<div align="center">
+  
+  go to pinterest to see my arts 
+  
+[Pinteres](https://pin.it/5ualnPwQN)
 
