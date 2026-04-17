@@ -12,7 +12,6 @@
  </div>
 <div align="center">
   
-  ${\textsf{\color{#84b067}city of stars, are you shining just for me?}}$   
 
  </div>
 <div align="center">
