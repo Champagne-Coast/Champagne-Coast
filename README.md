@@ -32,7 +32,7 @@
  </div>
 <div align="center">
   
-${\textsf{\color{#E5E3A3}go to pinterest to see my arts}}$
+${\textsf{\color{#84b067}go to pinterest to see my arts}}$
   
 [Pinteres](https://pin.it/5ualnPwQN)
 
