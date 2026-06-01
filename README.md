@@ -32,6 +32,6 @@ ${\textsf{\color{#84b067}go to pinterest to see my arts}}$
 
 <div align="center">
   
- <img width="150" height="150" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/adf9a176d65ae2bd8b5436846453541b38a8f631/Screenshot%202026-06-02%20014755.png">
+ <img width="200" height="200" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/adf9a176d65ae2bd8b5436846453541b38a8f631/Screenshot%202026-06-02%20014755.png">
  
 
