@@ -30,5 +30,8 @@ ${\textsf{\color{#84b067}go to pinterest to see my arts}}$
 
 [<img width="100" height="100" alt="287c726e03b14919e2ebb15534252bb0-removebg-preview" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/cf1f755f60bd877e1d9a810cb679573c9af0274c/Untitled174_20260418032444%20(1).png" />](https://pin.it/5ualnPwQN) 
 
-
+<div align="center">
+  
+ <img width="150" height="150" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/adf9a176d65ae2bd8b5436846453541b38a8f631/Screenshot%202026-06-02%20014755.png">
+ 
 
