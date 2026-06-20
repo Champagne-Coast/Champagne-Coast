@@ -12,10 +12,7 @@
 <div align="center">
   
 
-
-
-<p align="center">
-<a href="https://hits.sh/github.com/Champage-Coast/hits/"><img alt="Hits" src="https://hits.sh/github.com/Champage-Coast/hits.svg?label=tehee&extraCount=5921&color=ffcf16&labelColor=cc0087"/></a>
+${\textsf{\color{#FF007F}click to see my arts ok}}$
 
   
 [<img width="100" height="100" alt="(https://github.com/Champagne-Coast/Champagne-Coast/blob/028de0b6837c60b5f7fe982257f718e60e5ca58e/Untitled204_20260621025547.png)" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/028de0b6837c60b5f7fe982257f718e60e5ca58e/Untitled204_20260621025547.png" />](https://pin.it/5ualnPwQN) 
