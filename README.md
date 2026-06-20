@@ -22,7 +22,7 @@
 <img width="25" height="25" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/5938a6ca2a1343b23fa4f611a33b0c052f7212a8/tumblr_a024b80b48bb0f87475ec53498a2328c_9a68944c_75.webp" />
 
 
-${\textsf{\color{#84b067}go to pinterest to see my arts}}$
+${\textsf{\color{#FF007F}i do not know what to put on ts}}$
 
 [<img width="100" height="100" alt="287c726e03b14919e2ebb15534252bb0-removebg-preview" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/cf1f755f60bd877e1d9a810cb679573c9af0274c/Untitled174_20260418032444%20(1).png" />](https://pin.it/5ualnPwQN) 
 
