@@ -30,4 +30,5 @@ ${\textsf{\color{#FF007F}i do not know what to put on ts}}$
   
  <img width="200" height="200" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/adf9a176d65ae2bd8b5436846453541b38a8f631/Screenshot%202026-06-02%20014755.png">
  
-
+<p align="center">
+<a href="https://hits.sh/github.com/Champage-Coast/hits/"><img alt="Hits" src="https://hits.sh/github.com/Champage-Coast/hits.svg?label=tehee&extraCount=5921&color=ffcf16&labelColor=cc0087"/></a>
