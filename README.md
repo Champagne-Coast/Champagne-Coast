@@ -20,7 +20,7 @@
 
 ${\textsf{\color{#FF007F}i do not know what to put on ts}}$
 
-[<img width="100" height="100" alt="287c726e03b14919e2ebb15534252bb0-removebg-preview" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/cf1f755f60bd877e1d9a810cb679573c9af0274c/Untitled174_20260418032444%20(1).png" />](https://pin.it/5ualnPwQN) 
+[<img width="100" height="100" alt="287c726e03b14919e2ebb15534252bb0-removebg-preview" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/028de0b6837c60b5f7fe982257f718e60e5ca58e/Untitled204_20260621025547.png" />](https://pin.it/5ualnPwQN) 
 
 <div align="center">
   
