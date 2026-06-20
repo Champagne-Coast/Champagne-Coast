@@ -15,7 +15,7 @@
 ${\textsf{\color{#FF007F}click to see my arts ok}}$
 
   
-[<img width="100" height="100" alt="(https://github.com/Champagne-Coast/Champagne-Coast/blob/028de0b6837c60b5f7fe982257f718e60e5ca58e/Untitled204_20260621025547.png)" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/028de0b6837c60b5f7fe982257f718e60e5ca58e/Untitled204_20260621025547.png" />](https://pin.it/5ualnPwQN) [<img width="100" height="100" alt="(https://github.com/Champagne-Coast/Champagne-Coast/blob/028de0b6837c60b5f7fe982257f718e60e5ca58e/Untitled204_20260621025547.png)" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/a95143846d8c71fea1e1ffa082b9e3f0de5242a3/cahara.png" />]
+[<img width="100" height="100" alt="(https://github.com/Champagne-Coast/Champagne-Coast/blob/028de0b6837c60b5f7fe982257f718e60e5ca58e/Untitled204_20260621025547.png)" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/028de0b6837c60b5f7fe982257f718e60e5ca58e/Untitled204_20260621025547.png" />](https://pin.it/5ualnPwQN) <img width="200" height="200" alt="(https://github.com/Champagne-Coast/Champagne-Coast/blob/028de0b6837c60b5f7fe982257f718e60e5ca58e/Untitled204_20260621025547.png)" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/a95143846d8c71fea1e1ffa082b9e3f0de5242a3/cahara.png" />
 
 <div align="center">
   
