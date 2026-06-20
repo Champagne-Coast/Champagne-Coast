@@ -4,8 +4,7 @@
 <a href="https://hits.sh/github.com/Champagne-Coast/hits/"><img alt="Hits" src="https://hits.sh/github.com/Champagne-Coast/hits.svg?label=tehee&extraCount=3548&color=E5E3A3&labelColor=84b067"/></a>
 
 
-</div>
-<div align="center">
+
   
  <img width="400" height="400" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/3c625d4d8bb6bd2af8c1c60d52ca5717beb08c01/wo.png">
  
