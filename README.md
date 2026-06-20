@@ -13,7 +13,7 @@
   
 
   
-[<img width="100" height="100" alt="https://github.com/Champagne-Coast/Champagne-Coast/blob/3284552bc7cb2d56cb009e4b7172a6931887eddf/icon.jpg" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/3284552bc7cb2d56cb009e4b7172a6931887eddf/icon.jpg" />](https://pin.it/5ualnPwQN) 
+[<img width="100" height="100" alt="https://github.com/Champagne-Coast/Champagne-Coast/blob/bb52a939f4887e1f0aa25ae0b5f0c2ce2996f9a6/icon-art.png" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/bb52a939f4887e1f0aa25ae0b5f0c2ce2996f9a6/icon-art.png" />](https://pin.it/5ualnPwQN) 
 <div align="center">
   
 ${\textsf{\color{#FF007F}click to see my arts ok}}$
