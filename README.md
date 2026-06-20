@@ -1,6 +1,4 @@
 
-<p align="center">
-<a href="https://hits.sh/github.com/Champage-Coast/hits/"><img alt="Hits" src="https://hits.sh/github.com/Champage-Coast/hits.svg?label=tehee&extraCount=5921&color=ffcf16&labelColor=cc0087"/></a>
 
 </div>
 <div align="center">
@@ -11,6 +9,8 @@
  </div>
 <div align="center">
   
+<p align="center">
+<a href="https://hits.sh/github.com/Champage-Coast/hits/"><img alt="Hits" src="https://hits.sh/github.com/Champage-Coast/hits.svg?label=tehee&extraCount=5921&color=ffcf16&labelColor=cc0087"/></a>
 
   
 [<img width="100" height="100" alt="https://github.com/Champagne-Coast/Champagne-Coast/blob/bb52a939f4887e1f0aa25ae0b5f0c2ce2996f9a6/icon-art.png" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/bb52a939f4887e1f0aa25ae0b5f0c2ce2996f9a6/icon-art.png" />](https://pin.it/5ualnPwQN) 
