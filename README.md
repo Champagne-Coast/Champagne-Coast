@@ -16,7 +16,7 @@
 
 <div align="center">
   
- <img width="400" height="400" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/8af224cf1202b38e098d47a654b204442f337807/Screenshot_20260621-021209.jpg">
+ <img width="300" height="300" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/8af224cf1202b38e098d47a654b204442f337807/Screenshot_20260621-021209.jpg">
 
 ${\textsf{\color{#FF007F}i do not know what to put on ts, click to see my arts ok}}$
 
