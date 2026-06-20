@@ -7,7 +7,7 @@
 </div>
 <div align="center">
   
- <img width="350" height="350" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/40b69c7021f0d5101946ed12dac798018000f3cd/ok.png">
+ <img width="400" height="400" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/3c625d4d8bb6bd2af8c1c60d52ca5717beb08c01/wo.png">
  
  </div>
 <div align="center">
