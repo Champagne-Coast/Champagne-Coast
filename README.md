@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Champagne-Coast/Champagne-Coast/blob/15c8bf979c717df55fcf6e9a429d8b85f0a2a49e/eff7c0b32ffdd581e7af94e354491a8e.gif" alt="Animated Demo" width="500">
+  <img src="https://github.com/Champagne-Coast/Champagne-Coast/blob/15c8bf979c717df55fcf6e9a429d8b85f0a2a49e/eff7c0b32ffdd581e7af94e354491a8e.gif" width="500">
 </p>
 
 </div>
