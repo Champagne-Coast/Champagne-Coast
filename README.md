@@ -3,12 +3,7 @@
   <img src="https://github.com/Champagne-Coast/Champagne-Coast/blob/15c8bf979c717df55fcf6e9a429d8b85f0a2a49e/eff7c0b32ffdd581e7af94e354491a8e.gif" width="500">
 </p>
 
-</div>
-<div align="center">
 
-  
- <img width="350" height="350" src="https://github.com/Champagne-Coast/Champagne-Coast/blob/3c625d4d8bb6bd2af8c1c60d52ca5717beb08c01/wo.png">
- 
  </div>
 <div align="center">
   
